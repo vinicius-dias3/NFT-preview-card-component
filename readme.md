@@ -17,7 +17,7 @@ Consiste em criar um cartão-NFT. Fiz utilizando propriedades do `display: flex;
 ### Dificuldades
 - Efeito `:hover` na imagem do NFT
 ![Efeito hover com pseudo-elemento](./src/design/active-states.jpg)
-A parte mais complicada porque tive que inserir 2 elementos por cima da imagem do NFT. Sendo 1, o `background-color: cyan;` e o outro, a imagem do "olhinho". Veja como foi feito:
+A parte mais complicada porque tive que inserir 2 elementos por cima da imagem do NFT. Sendo 1, o `background: var(--destaque);` e o outro, a imagem do "olhinho". Veja como foi feito:
 ![código pronto](./src/images/explain-readme2.png)
 
 
