@@ -2,8 +2,7 @@
 
 ![projeto pronto](./src/design/desktop-design.jpg)
 
-Fiz este desafio, disponibilizado no Front-end Mentor
-My favorite search engine is [Front-end Mentor](https://www.frontendmentor.io/home).
+Fiz este desafio, disponibilizado no Front-end Mentor.
 
 ----
 
